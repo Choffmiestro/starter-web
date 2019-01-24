@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 This is how you deploy.
 
 ## How To Contribute
+
+### Copyright
+
+2019 Christoffer Nielsen
