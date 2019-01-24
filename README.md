@@ -16,6 +16,8 @@ This is how you deploy.
 
 ## How To Contribute
 
+please fork this repository and then issue pull request for rewiw
+
 ### Copyright
 
 2019 Christoffer Nielsen
