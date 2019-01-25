@@ -22,4 +22,4 @@ please fork this repository and then issue pull request for rewiw
 
 ### Copyright
 
-2019 Christoffer Nielsen
+2019 Christoffer Nielsen. All rights reserved.
